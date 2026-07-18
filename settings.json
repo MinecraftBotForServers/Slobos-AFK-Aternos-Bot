@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "createaeronaftics67.falix.gg",
+    "ip": "",
     "port": 26763,
     "version": "1.21.1",
     "try-creative": false
